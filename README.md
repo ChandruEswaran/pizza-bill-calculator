@@ -13,7 +13,7 @@ The program then calculates and displays the final bill amount.
 5. The total bill will be displayed.
 
 ## Example
-Enter the size of the pizza (s, m, l): m
-Do you want to add pepper (y/n)? n
-Do you want to add extra cheese (y/n)? y
-## The total bill is: $21
+- Enter the size of the pizza (s, m, l): m
+- Do you want to add pepper (y/n)? n
+- Do you want to add extra cheese (y/n)? y
+- ## The total bill is: $21
